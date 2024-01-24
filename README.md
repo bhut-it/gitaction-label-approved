@@ -18,7 +18,7 @@ jobs:
         APPROVALS: "2"
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         ADD_LABEL: "approved"
-        COLOR: "#0E8A16"
+        LABEL_COLOR: "0E8A16"
 ```
 
 ## Licença
